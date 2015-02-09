@@ -3,6 +3,12 @@
 # Okay, now I'm making change.
 
 # Implementing feature A.  
+
+
+# Implementing feature B.  
+
+
+
 #10/03/2012
 # These constants depend on the global variables gv.  
 W.init <- 4 # Initial Cake size
