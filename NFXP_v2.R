@@ -2,6 +2,8 @@
 # I'm goign to test it some more.  What is up with this?
 # Okay, now I'm making change. 
 #10/03/2012
+
+# Now I'm editing feature B.  Blah blbah blah lbalh.
 # These constants depend on the global variables gv.  
 W.init <- 4 # Initial Cake size
 kAllw <- seq(0.01, W.init, 0.01)   # State Space
