@@ -1,5 +1,6 @@
 #Testing for Github.
 # I'm goign to test it some more.  What is up with this?
+# Okay, now I'm making change. 
 #10/03/2012
 # These constants depend on the global variables gv.  
 W.init <- 4 # Initial Cake size
